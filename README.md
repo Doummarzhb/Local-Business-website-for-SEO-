@@ -8,7 +8,7 @@ Material-UI: A component library that provides beautiful, ready-to-use designs. 
 
 react-icons: A library that offers a collection of icons to enhance the user interface. ( react-icons/fa ) npm install react-icons
 
-Google Analytics: Used for analyzing website performance and understanding user behavior. 
+Google Analytics: Used for analyzing website performance and understanding user behavior.  index.html
 
 React Helmet: A library used to manage changes to the document head, allowing for dynamic updates of title, meta tags, and other elements for better SEO and improved user experience.  ( react-helmet )  npm install react-helmet
 
