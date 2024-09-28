@@ -1,0 +1,23 @@
+.contact-us {
+    background-color: #f9f9f9; 
+    border: 2px solid #1976d2; 
+    border-radius: 8px; 
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%; 
+}
+
+.contact-us h1 {
+    font-weight: bold;
+    margin-bottom: 1rem; 
+}
+
+.contact-us .MuiTextField-root {
+    margin-bottom: 1.5rem; 
+}
+
+@media (max-width: 600px) {
+    .contact-us {
+        flex-direction: column; 
+    }
+}

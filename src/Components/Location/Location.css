@@ -1,0 +1,46 @@
+#location {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .location-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .info-item {
+    display: flex;
+    align-items: center;
+    font-size: 1.2em;
+  }
+  
+  .icon {
+    margin-right: 10px;
+    font-size: 1.5em;
+    color: #295F98;  
+  }
+  
+  iframe {
+    margin-top: 20px;
+    border: none;
+  }
+  
+ 
+  @media (max-width: 768px) {
+    .location-info {
+      flex-direction: column;
+    }
+  
+    .info-item {
+      margin-bottom: 15px;
+    }
+  }
+  
